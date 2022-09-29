@@ -1,0 +1,14 @@
+.espacamento {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.fundo-azul {
+    background-color: blue;
+}
+
+#sobre {
+    background-color: #f5f5f5;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
